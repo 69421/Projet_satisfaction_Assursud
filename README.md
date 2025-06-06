@@ -10,6 +10,7 @@ Ce projet vise à analyser les résultats d'une enquête de satisfaction menée 
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
 - Excel
+- R
 
 ## Structure
 - `data/` : données CSV
